@@ -1,13 +1,13 @@
 # Spring-Boot Author
 ## Target of the Project</br>
-This is a Java Spring project that manages authors with a RESTful API.</br></br>
+The management of authors in this Java Spring project is handled through the use of a RESTful API.</br></br>
 
 ## What Dependencies We Used in This Project?
-✔️Spring Web
-✔️Spring JPA
-✔️Spring DevTools
-✔️H2
-✔️Lombok
+✔️Spring Web</br>
+✔️Spring JPA</br>
+✔️Spring DevTools</br>
+✔️H2</br>
+✔️Lombok</br>
 </br></br>
 
 
