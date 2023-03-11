@@ -1,16 +1,18 @@
-## Target of the Project
+# Spring-Boot Author
+## Target of the Project</br>
 This is a Java Spring project that manages authors with a RESTful API.</br></br>
 
-## What Dependencies We Used in This Project
-✔️Spring Web</br>
-✔️Spring JPA</br>
-✔️Spring DevTools</br>
-✔️H2</br>
-✔️Lombok</br>
+## What Dependencies We Used in This Project?
+✔️Spring Web
+✔️Spring JPA
+✔️Spring DevTools
+✔️H2
+✔️Lombok
 </br></br>
 
 
 ### The results of the project test in the following images</br>
+We used postman to see the results better of this project
 #### GET Command
 ![Get Command](https://github.com/omer-ulucan/spring-boot_authorAssignment/blob/main/images/postman_ss_get.png)
 
