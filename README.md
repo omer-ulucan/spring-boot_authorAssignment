@@ -10,6 +10,11 @@ The management of authors in this Java Spring project is handled through the use
 ✔️Lombok</br>
 </br></br>
 
+## Use the Following Links to Access Certain Files quickly.
+[📌Beans](https://github.com/omer-ulucan/spring-boot_authorAssignment/blob/main/src/main/java/com/author/lesson/beans/Author.java)
+[📌Boostrap](https://github.com/omer-ulucan/spring-boot_authorAssignment/blob/main/src/main/java/com/author/lesson/boostraps/AuthorBootstrap.java)
+[📌Controllers](https://github.com/omer-ulucan/spring-boot_authorAssignment/blob/main/src/main/java/com/author/lesson/controllers/HomeController.java)
+[📌Repository](https://github.com/omer-ulucan/spring-boot_authorAssignment/blob/main/src/main/java/com/author/lesson/repository/AuthorRepository.java)
 
 ### The results of the project test in the following images</br>
 We used postman to see the results better of this project
